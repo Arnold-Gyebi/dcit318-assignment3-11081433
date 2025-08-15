@@ -1,0 +1,14 @@
+C:\Users\Arnold Spencer\Downloads\AssignmentApp_ready1\AssignmentApp\bin\Debug\net6.0\AssignmentApp.exe
+C:\Users\Arnold Spencer\Downloads\AssignmentApp_ready1\AssignmentApp\bin\Debug\net6.0\AssignmentApp.deps.json
+C:\Users\Arnold Spencer\Downloads\AssignmentApp_ready1\AssignmentApp\bin\Debug\net6.0\AssignmentApp.runtimeconfig.json
+C:\Users\Arnold Spencer\Downloads\AssignmentApp_ready1\AssignmentApp\bin\Debug\net6.0\AssignmentApp.dll
+C:\Users\Arnold Spencer\Downloads\AssignmentApp_ready1\AssignmentApp\bin\Debug\net6.0\AssignmentApp.pdb
+C:\Users\Arnold Spencer\Downloads\AssignmentApp_ready1\AssignmentApp\obj\Debug\net6.0\AssignmentApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Arnold Spencer\Downloads\AssignmentApp_ready1\AssignmentApp\obj\Debug\net6.0\AssignmentApp.AssemblyInfoInputs.cache
+C:\Users\Arnold Spencer\Downloads\AssignmentApp_ready1\AssignmentApp\obj\Debug\net6.0\AssignmentApp.AssemblyInfo.cs
+C:\Users\Arnold Spencer\Downloads\AssignmentApp_ready1\AssignmentApp\obj\Debug\net6.0\AssignmentApp.csproj.CoreCompileInputs.cache
+C:\Users\Arnold Spencer\Downloads\AssignmentApp_ready1\AssignmentApp\obj\Debug\net6.0\AssignmentApp.dll
+C:\Users\Arnold Spencer\Downloads\AssignmentApp_ready1\AssignmentApp\obj\Debug\net6.0\refint\AssignmentApp.dll
+C:\Users\Arnold Spencer\Downloads\AssignmentApp_ready1\AssignmentApp\obj\Debug\net6.0\AssignmentApp.pdb
+C:\Users\Arnold Spencer\Downloads\AssignmentApp_ready1\AssignmentApp\obj\Debug\net6.0\AssignmentApp.genruntimeconfig.cache
+C:\Users\Arnold Spencer\Downloads\AssignmentApp_ready1\AssignmentApp\obj\Debug\net6.0\ref\AssignmentApp.dll

@@ -1,0 +1,4 @@
+Alice Smith (ID: 101): Score = 84, Grade = A
+Kwame Mensah (ID: 102): Score = 73, Grade = B
+Ama Adwoa (ID: 103): Score = 59, Grade = D
+John Doe (ID: 104): Score = 42, Grade = F

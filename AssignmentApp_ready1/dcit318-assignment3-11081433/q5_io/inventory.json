@@ -1,0 +1,32 @@
+[
+  {
+    "Id": 1,
+    "Name": "USB Cable",
+    "Quantity": 50,
+    "DateAdded": "2025-08-15T10:01:50.2024884+00:00"
+  },
+  {
+    "Id": 2,
+    "Name": "Notebook",
+    "Quantity": 200,
+    "DateAdded": "2025-08-15T10:01:50.2029336+00:00"
+  },
+  {
+    "Id": 3,
+    "Name": "Stapler",
+    "Quantity": 35,
+    "DateAdded": "2025-08-15T10:01:50.2029397+00:00"
+  },
+  {
+    "Id": 4,
+    "Name": "Marker Pen",
+    "Quantity": 120,
+    "DateAdded": "2025-08-15T10:01:50.20294+00:00"
+  },
+  {
+    "Id": 5,
+    "Name": "Flash Drive 32GB",
+    "Quantity": 60,
+    "DateAdded": "2025-08-15T10:01:50.2029401+00:00"
+  }
+]

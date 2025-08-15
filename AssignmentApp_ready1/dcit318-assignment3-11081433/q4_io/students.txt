@@ -1,0 +1,4 @@
+101,Alice Smith,84
+102,Kwame Mensah,73
+103,Ama Adwoa,59
+104,John Doe,42
