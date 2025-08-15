@@ -21,13 +21,12 @@ AssignmentApp/
 - A C# IDE like Visual Studio, Rider, or VS Code with the C# extension
 
 ## How to Run
-1. Unzip the project into a folder of your choice.
-2. Open the folder in your preferred C# IDE or terminal.
-3. If using the terminal:
+1. Open the folder in your preferred C# IDE or terminal.
+2. If using the terminal:
    ```bash
    dotnet run
    ```
-4. The console will display the output for all five questions in sequence.
+3. The console will display the output for all five questions in sequence.
 
 ## Notes
 - Some questions create and read files during execution (`q4_io` and `q5_io` directories will appear in your project folder).
